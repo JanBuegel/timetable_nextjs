@@ -143,7 +143,7 @@ export default function TimetablePage() {
           )
           .map(([date, stages]) => (
             <div key={date} className="mb-8">
-              <h2 className="text-2xl font-bold mb-4 bg-gray-100 p-2 rounded-md sticky top-0">{date}</h2>
+              <h2 className="text-2xl font-bold mb-4 bg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-gray-100 p-2 rounded-md sticky top-0">{date}</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
                 {Object.entries(stages)
                   .filter(([stage]) =>
@@ -203,7 +203,6 @@ export default function TimetablePage() {
               🔍
             </button>
           </>
-
         )}
         <button
           className="w-12 h-12 rounded-full bg-blue-500 text-white flex items-center justify-center shadow-lg"
