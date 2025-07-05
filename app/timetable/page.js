@@ -166,16 +166,14 @@ export default function TimetablePage() {
                             const eventKey = `${event.name}-${event.date}-${event.time}-${event.stage}`;
                             const isFavorite = favorites[eventKey];
                             return (
-                              <li key={eventKey} className="py-2 flex items-center justify-between">
-                                <div>
-                                  <span className="font-bold w-16 flex-shrink-0">{event.time}</span>
-                                  <span>{event.name}</span>
-                                </div>
+                              <li key={eventKey} className="py-2 flex items-center gap-2">
+                                <span className="w-16 font-bold flex-shrink-0">{event.time}</span>
+                                <span className="flex-grow">{event.name}</span>
                                 <button
                                   onClick={() => toggleFavorite(event)}
-                                  className="ml-2 p-1 rounded-full focus:outline-none"
+                                  className="w-8 h-8 flex items-center justify-center text-red-500 rounded-full focus:outline-none"
                                 >
-                                  {isFavorite ? '★' : '☆'}
+                                  {isFavorite ? '♥' : '♡'}
                                 </button>
                               </li>
                             );
@@ -189,24 +187,23 @@ export default function TimetablePage() {
           ))
       )}
       </div>
-      <div className="fixed bottom-4 right-4 flex flex-col items-end">
+      <div className="fixed bottom-4 right-4 flex flex-col items-end space-y-2">
         {menuOpen && (
-          <div className="mb-2 p-3 rounded-lg shadow-lg bg-white dark:bg-gray-800 space-y-2">
-            <label className="flex items-center gap-2">
-              <input
-                type="checkbox"
-                checked={showFavoritesOnly}
-                onChange={() => setShowFavoritesOnly(!showFavoritesOnly)}
-              />
-              <span>Favoriten anzeigen</span>
-            </label>
+          <>
             <button
-              className="px-2 py-1 rounded bg-blue-500 text-white"
+              className="w-12 h-12 rounded-full bg-blue-500 text-white flex items-center justify-center shadow-lg"
+              onClick={() => setShowFavoritesOnly(!showFavoritesOnly)}
+            >
+              {showFavoritesOnly ? '❤️' : '🤍'}
+            </button>
+            <button
+              className="w-12 h-12 rounded-full bg-blue-500 text-white flex items-center justify-center shadow-lg"
               onClick={() => { setFilterModalOpen(true); setMenuOpen(false); }}
             >
-              Filtern
+              🔍
             </button>
-          </div>
+          </>
+
         )}
         <button
           className="w-12 h-12 rounded-full bg-blue-500 text-white flex items-center justify-center shadow-lg"
