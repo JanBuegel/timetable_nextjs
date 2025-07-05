@@ -59,3 +59,42 @@ This will serve the production build of your application.
 ## Data
 
 The timetable data is sourced from `app/data/open_flair_custom.csv`.
+
+## API Endpoints
+
+### `/api/timetable`
+
+This API endpoint provides the Open Flair Festival timetable data.
+
+- **Method:** `GET`
+- **URL:** `/api/timetable`
+- **Response:** A JSON object representing the grouped timetable data. The data is grouped by date, then by stage, with events sorted by time.
+
+  Example Response Structure:
+  ```json
+  {
+    "06.08.2025": {
+      "SB": [
+        {
+          "name": "Hi Spencer!",
+          "date": "06.08.2025",
+          "time": "16:15",
+          "stage": "SB"
+        },
+        // ... more events
+      ]
+    },
+    "07.08.2025": {
+      "EW": [
+        {
+          "name": "Open Flair Eröffnungsshow",
+          "date": "07.08.25",
+          "time": "13:45",
+          "stage": "EW"
+        },
+        // ... more events
+      ],
+      // ... more stages
+    }
+  }
+  ```
