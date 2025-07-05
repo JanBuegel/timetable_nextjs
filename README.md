@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Open Flair Timetable PWA
+
+This is a Next.js project for the Open Flair Festival timetable, designed to be a Progressive Web Application (PWA).
 
 ## Getting Started
 
-First, run the development server:
+Follow these instructions to set up and run the project locally.
+
+### Prerequisites
+
+Make sure you have Node.js (version 18.x or higher recommended) and npm installed on your machine.
+
+### Installation
+
+1. Clone the repository (if applicable, otherwise navigate to the project directory):
+
+   ```bash
+   cd open-flair-timetable-nextjs
+   ```
+
+2. Install the project dependencies:
+
+   ```bash
+   npm install
+   ```
+
+### Running the Development Server
+
+To start the development server with hot-reloading:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The timetable will be available at [http://localhost:3000/timetable](http://localhost:3000/timetable).
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Building for Production
 
-## Learn More
+To build the application for production:
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run build
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This command optimizes the application for production and creates an optimized build in the `.next` folder.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Running in Production Mode
 
-## Deploy on Vercel
+To run the built application in production mode:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+npm run start
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This will serve the production build of your application.
+
+## Data
+
+The timetable data is sourced from `app/data/open_flair_custom.csv`.
