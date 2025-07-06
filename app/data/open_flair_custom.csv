@@ -1,88 +1,157 @@
-name;date;time;stage
-Hi Spencer!;06.08.2025;16:15;SB
-Rogers;06.08.2025;17:30;SB
-Raum27;06.08.2025;19:00;SB
-Maximo Park;06.08.2025;20:30;SB
-Grossstadtgeflüsster;06.08.2025;22:30;SB
-Open Flair Eröffnungsshow;07.08.25;13:45;EW
-Glas Klar INSTERO;07.08.25;15:00;HB
-Kinderzirkus Fantasia;07.08.25;16:00;KK
-Open Flair Crossover Slam;07.08.25;16:00;EW
-Tripkid;07.08.25;16:30;SB
-Maccormac;07.08.25;17:00;HB
-Reis Against The Spülmaschine;07.08.25;18:00;SB
-Mail Martschinkowsky;07.08.25;18:00;EW
-Ten Sing;07.08.25;18:00;KK
-Siggi;07.08.25;19:00;HB
-Future Place;07.08.25;19:30;SB
-Armi Warning;07.08.25;20:00;EW
-Carla Ahad;07.08.25;21:00;HB
-Irie Révoltés;07.08.25;21:00;SB
-Rainer von Vielen;07.08.25;22:00;EW
-Ski Aggu;07.08.25;22:30;SB
-The Butcher Sisters;07.08.25;00:30;SB
-Betontod;08.08.25;14:15;RBB
-Nina Jacob;08.08.25;14:30;HB
-Kopfecho;08.08.25;15:15;FB
-Kießling&Kaffka;08.08.25;15:30;EW
-Querbeat;08.08.25;16:15;RBB
-Bachratten;08.08.25;16:30;HB
-Jack Pott;08.08.25;17:00;SB
-Rantanplan;08.08.25;17:15;FB
-Luksan Wunder;08.08.25;17:30;EW
-Von Wegen Lisbeth;08.08.25;18:15;RBB
-Coldrain;08.08.25;18:15;SB
-Emma Rose;08.08.25;18:30;HB
-Milleniumkid;08.08.25;19:15;FB
-Suchtpotenzial;08.08.25;19:30;EW
-Maël & Jonas;08.08.25;19:45;SB
-Royal Republic;08.08.25;20:15;RBB
-Thomas D;08.08.25;20:30;HB
-Set It Off;08.08.25;21:15;SB
-Gruppa Karl-Marx-Stadt;08.08.25;21:30;EW
-Edo Saiya;08.08.25;21:30;FB
-Yungblud;08.08.25;22:30;RBB
-The Chats;08.08.25;22:45;SB
-DieNerven;08.08.25;00:00;FB
-Mr. Hurley & Die Pulveraffen;08.08.25;00:30;SB
-Radikale Töchter;09.08.25;13:00;EW
-Danko Jones;09.08.25;14:15;RBB
-Peppler Band;09.08.25;14:30;HB
-Open Flair Song Slam;09.08.25;15:00;EW
-Mandelkokainschnaps;09.08.25;15:15;FB
-Antilopen Gang;09.08.25;16:15;RBB
-Textbomben;09.08.25;17:00;EW
-Conny;09.08.25;17:00;SB
-Drei Meter Feldweg;09.08.25;17:15;FB
-Joshua Patron;09.08.25;17:30;HB
-Kockkraft durch KMA;09.08.25;18:15;SB
-Ennio;09.08.25;18:15;RBB
-Lara Hulo;09.08.25;19:00;EW
-Paula Carolina;09.08.25;19:15;FB
-Matze Rossi;09.08.25;19:30;HB
-Indecent Behavior;09.08.25;19:45;SB
-Nothing but Thieves;09.08.25;20:15;RBB
-Toxoplasma;09.08.25;21:00;EW
-Rauhbein;09.08.25;21:15;SB
-Itchy;09.08.25;21:30;FB
-Fiora;09.08.25;21:30;HB
-I Prevail;09.08.25;22:30;RBB
-Kasi;09.08.25;22:50;SB
-Andy Strauss;09.08.25;23:00;EW
-Schmutzki;09.08.25;00:00;FB
-H-Blockx;09.08.25;00:30;SB
-Gierig & Gefräßig;10.08.25;13:30;EW
-Kitty Daisy & Lewis;10.08.25;14:15;RBB
-False Lefty;10.08.25;14:30;HB
-Butterwegge;10.08.25;15:15;FB
-Open Flair Slam;10.08.25;15:30;EW
-Team Scheisse;10.08.25;16:15;RBB
-Temmis;10.08.25;16:30;HB
-Blackout Problems;10.08.25;17:15;FB
-Abriss Felix Römer;10.08.25;17:30;EW
-Enter Shikari;10.08.25;18:15;RBB
-Scheitern.3000;10.08.25;19:00;HB
-Dilla;10.08.25;19:15;FB
-"""01099""";10.08.25;20:15;RBB
-Juli;10.08.25;21:30;FB
-Papa Roach;10.08.25;22:30;RBB
+﻿name;date;time;stage
+Focus.;Mittwoch 06.08.25;15:15;Seebühne
+CLUDI;Mittwoch 06.08.25;16:00;Elektrogarten
+Hi! Spencer;Mittwoch 06.08.25;16:15;Seebühne
+Rogers;Mittwoch 06.08.25;17:30;Seebühne
+La Guta;Mittwoch 06.08.25;18:00Uhr;Elektrogarten
+Raum27;Mittwoch 06.08.25;19:00;Seebühne
+Josi Miller;Mittwoch 06.08.25;20:00;Elektrogarten
+Maxïmo Park;Mittwoch 06.08.25;20:30;Seebühne
+A.N.I.;Mittwoch 06.08.25;22:00;Elektrogarten
+Grossstadtgeflüster;Mittwoch 06.08.25;22:30;Seebühne
+KXXMA;Donnerstag 07.08.25;00:00;Elektrogarten
+Open Flair Eröffnungsshow;Donnerstag 07.08.25;13:45;E-Werk
+Glas Klar INSTEREO;Donnerstag 07.08.25;15:00;Hofbühne
+ELL;Donnerstag 07.08.25;15:30;Seebühne
+Open Flair Crossover Slam;Donnerstag 07.08.25;16:00;E-Werk
+DJ Chi;Donnerstag 07.08.25;16:00;Elektrogarten
+Kinderzirkus Fantasia;Donnerstag 07.08.25;16:00;Kleinkunstzelt
+TRiPKiD;Donnerstag 07.08.25;16:30;Seebühne
+MacCormac;Donnerstag 07.08.25;17:00;Hofbühne
+Schippe Dreck;Donnerstag 07.08.25;17:00;Schlossparkbühne
+Reis Against The Spülmaschine;Donnerstag 07.08.25;18:00;Seebühne
+Maik Martschinkowsky ;Donnerstag 07.08.25;18:00;E-Werk
+NiBo;Donnerstag 07.08.25;18:00;Elektrogarten
+TEN SING;Donnerstag 07.08.25;18:00;Kleinkunstzelt
+Siggi;Donnerstag 07.08.25;19:00;Hofbühne
+Schippe Dreck;Donnerstag 07.08.25;19:00;Schlossparkbühne
+Future Palace;Donnerstag 07.08.25;19:30;Seebühne
+RUMO;Donnerstag 07.08.25;20:00;Elektrogarten
+Ami Warning;Donnerstag 07.08.25;20:00;E-Werk
+Nils Heinrich;Donnerstag 07.08.25;20:00;Kleinkunstzelt
+Irie Révoltés;Donnerstag 07.08.25;21:00;Seebühne
+Carla Ahad;Donnerstag 07.08.25;21:00;Hofbühne
+Frogs;Donnerstag 07.08.25;21:15;Weinzelt
+Jannik Fischbach ;Donnerstag 07.08.25;22:00;Elektrogarten 
+Rainer von Vielen ;Donnerstag 07.08.25;22:00;E-Werk
+Florian Schroeder;Donnerstag 07.08.25;22:00;Kleinkunstzelt
+Ski Aggu;Donnerstag 07.08.25;22:30;Seebühne
+Frogs;Donnerstag 07.08.25;23:15;Weinzelt
+Pappenheimer;Freitag 08.08.25;00:00;Elektrogarten
+The Butcher Sisters;Freitag 08.08.25;00:30;Seebühne
+Kerobin + 34TJAY;Freitag 08.08.25;13:00;Radio Bob Bühne
+Kießling&Kaffka;Freitag 08.08.25;13:30;E-Werk
+Chaosbay;Freitag 08.08.25;13:30;Freibühne
+Betontod;Freitag 08.08.25;14:15;Radio Bob Bühne
+Notes of Berlin;Freitag 08.08.25;14:15;Kleinkunstzelt
+Nina Jacob;Freitag 08.08.25;14:30 ;Hofbühne
+Serpentin;Freitag 08.08.25;15:15;Freibühne
+Luksan Wunder;Freitag 08.08.25;15:30;E-Werk
+M.I.A Courage Gruppe BGS;Freitag 08.08.25;15:30;Schlossparkbühne
+Marco Baskind;Freitag 08.08.25;16:00;Elektrogarten
+Querbeat;Freitag 08.08.25;16:15;Radio Bob Bühne
+Arnulf Rating;Freitag 08.08.25;16:15;Kleinkunstzelt
+Bachratten;Freitag 08.08.25;16:30;Hofbühne
+Jack Pott;Freitag 08.08.25;17:00;Seebühne
+Rantanplan;Freitag 08.08.25;17:15;Freibühne
+Gert & Friends ;Freitag 08.08.25;17:15;Schlossparkbühne
+Suchtportenzial ;Freitag 08.08.25;17:30;E-Werk
+Joshua Patron;Freitag 08.08.25;17:30;Hofbühne
+herrhoppe;Freitag 08.08.25;18:00;Elektrogarten
+Von Wegen Lisbeth ;Freitag 08.08.25;18:15;Radio Bob Bühne
+Coldrain ;Freitag 08.08.25;18:15;Seebühne
+Zärtlichkeiten mit Freunden;Freitag 08.08.25;18:15;Kleinkunstzelt
+Emma Rose;Freitag 08.08.25;18:30;Hofbühne 
+MilleniumKid ;Freitag 08.08.25;19:15;Freibühne
+Konzinn;Freitag 08.08.25;19:15;Schlossparkbühne
+Marisabelle;Freitag 08.08.25;19:30;E-Werk
+Maël & Jonas ;Freitag 08.08.25;19:45;Seebühne
+Xenaia;Freitag 08.08.25;20:00;Elektrogarten
+Royal Republic ;Freitag 08.08.25;20:15;Radio Bob Bühne
+Markus Krebs;Freitag 08.08.25;20:15;Kleinkunstzelt
+Thomas D x Flo Mega & The KBCS;Freitag 08.08.25;20:30;Hofbühne 
+Punk Rock Factory;Freitag 08.08.25;21:15;Seebühne
+Fiebre de la Fiebre;Freitag 08.08.25;21:15;Weinzelt
+Gruppa Karl-Marx-Stadt;Freitag 08.08.25;21:30 ;E-Werk 
+Edo Saiya;Freitag 08.08.25;21:30;Freibühne
+Fiora;Freitag 08.08.25;21:30;Hofbühne
+Esshar;Freitag 08.08.25;22:00;Elektrogarten
+Monsters of Liedermaching;Freitag 08.08.25;22:15;Kleinkunstzelt
+Yungblud ;Freitag 08.08.25;22:30;Radio Bob Bühne
+The Chats;Freitag 08.08.25;22:45;Seebühne
+Fiebre de la Fiebre;Freitag 08.08.25;23:15;Weinzelt
+Milo Bash;Samstag 09.08.25;00:00;Elektrogarten
+Die Nerven ;Samstag 09.08.25;00:00;Freibühne
+Mr. Hurley & Die Pulveraffen ;Samstag 09.08.25;00:30;Seebühne
+Kindertheater Otsch Luftikuss;Samstag 09.08.25;12:15;Schlossparkbühne
+Salt N' Tales;Samstag 09.08.25;12:30;Freibühne
+The Stifflers;Samstag 09.08.25;13:00 ;Radio Bob Bühne
+Radikale Töchter ;Samstag 09.08.25;13:00 ;E-Werk
+Picobello;Samstag 09.08.25;13:15;Schlossparkbühne
+Stan Silver and The Brave Puppies;Samstag 09.08.25;13:30;Freibühne
+Bernd Gieseking;Samstag 09.08.25;14:00;Kleinkunstzelt
+Danko Jones;Samstag 09.08.25;14:15 ;Radio Bob Bühne
+Open Flair Song Slam;Samstag 09.08.25;15:00;E-Werk
+"herrH - ""Lieblingsfarbe bunt""";Samstag 09.08.25;15:00;Schlossparkbühne
+MandelKokainSchnaps;Samstag 09.08.25;15:15;Freibühne
+Peppler Band;Samstag 09.08.25;16:00;Hofbühne 
+Leo Bassi;Samstag 09.08.25;16:00 ;Kleinkunstzelt
+C.Tekk;Samstag 09.08.25;16:00;Elektrogarten
+Antilopen Gang ;Samstag 09.08.25;16:15;Radio Bob Bühne
+Conny ;Samstag 09.08.25;17:00;Seebühne
+Textbomben;Samstag 09.08.25;17:00;E-Werk
+"Clown Otsch ""Einfach otschig""";Samstag 09.08.25;17:00;Schlossparkbühne
+Drei Meter Feldweg ;Samstag 09.08.25;17:15;Freibühne
+Alfonso;Samstag 09.08.25;17:15 ;Elektrogarten
+Joshua Patron;Samstag 09.08.25;18:00 ;Hofbühne
+Sarah Hakenberg;Samstag 09.08.25;18:00;Kleinkunstzelt
+Ennio;Samstag 09.08.25;18:15;Radio Bob Bühne
+Kochkraft durch KMA;Samstag 09.08.25;18:15;Seebühne
+Adam Schock;Samstag 09.08.25;18:30;Elektrogarten
+Lara Hulo;Samstag 09.08.25;19:00;E-Werk
+Mr. White Hat;Samstag 09.08.25;19:00;Weinzelt
+Paula Carolina ;Samstag 09.08.25;19:15;Freibühne
+Indecent Behavior ;Samstag 09.08.25;19:45;Seebühne
+Matze Rossi;Samstag 09.08.25;20:00;Hofbühne
+Bademeister Schaluppke;Samstag 09.08.25;20:00;Kleinkunstzelt
+Nothing But Thieves ;Samstag 09.08.25;20:15;Radio Bob Bühne
+Lari Luke;Samstag 09.08.25;20:30;Elektrogarten
+Toxoplasma;Samstag 09.08.25;21:00;E-Werk
+Mr. White Hat;Samstag 09.08.25;21:00;Weinzelt
+Rauhbein ;Samstag 09.08.25;21:15;Seebühne
+Itchy ;Samstag 09.08.25;21:30;Freibühne
+Fiora;Samstag 09.08.25;22:00;Hofbühne
+Zeitmelodie;Samstag 09.08.25;22:00;Elektrogarten
+Sven Bensmann;Samstag 09.08.25;22:00;Kleinkunstzelt
+I Prevail ;Samstag 09.08.25;22:30;Radio Bob Bühne
+Kasi;Samstag 09.08.25;22:50;Seebühne
+Andy Strauß;Samstag 09.08.25;23:00 ;E-Werk
+Mr. White Hat;Samstag 09.08.25;23:00;Weinzelt
+Schmutzski ;Sonntag 10.08.25;00:00;Freibühne
+FRIIDON;Sonntag 10.08.25;00:00;Elektrogarten
+H-Blockx;Sonntag 10.08.25;00:30;Seebühne
+Andy Strauß;Sonntag 10.08.25;01:00;Elektrogarten 
+Mathi der Kinderliedermacher;Sonntag 10.08.25;12:45 ;Schlossparkbühne
+Gierig & Gefräßig;Sonntag 10.08.25;13:30 ;E-Werk
+Denise Herwig;Sonntag 10.08.25;13:30;Freibühne
+Hooligans gegen Satzbau;Sonntag 10.08.25;13:45;Kleinkunstzelt
+Peppler ;Sonntag 10.08.25;14:00;Waldbühne
+Kitty, Daisy & Lewis;Sonntag 10.08.25;14:15 ;Radio Bob Bühne
+False Lefty;Sonntag 10.08.25;14:30;Hofbühne
+Sukini;Sonntag 10.08.25;14:45;Schlossparkbühne
+Butterwegge;Sonntag 10.08.25;15:15;Freibühne
+Open Flair Slam;Sonntag 10.08.25;15:30;E-Werk
+Coremy;Sonntag 10.08.25;15:45;Kleinkunstzelt
+Team Scheisse;Sonntag 10.08.25;16:15;Radio Bob Bühne
+Temmis;Sonntag 10.08.25;16:30;Hofbühne
+Gieseking liest;Sonntag 10.08.25;17:00;Schlossparkbühne
+Blackout Problems;Sonntag 10.08.25;17:15;Freibühne
+Abriss Felix Römer;Sonntag 10.08.25;17:30 ;E-Werk
+Stefan Danziger;Sonntag 10.08.25;17:30 ;Kleinkunstzelt
+Enter Shikari ;Sonntag 10.08.25;18:15;Radio Bob Bühne
+scheitern.dreitausend;Sonntag 10.08.25;18:30;Hofbühne
+Dilla;Sonntag 10.08.25;19:15;Freibühne
+Marie Diot;Sonntag 10.08.25;19:30;Kleinkunstzelt
+1099;Sonntag 10.08.25;20:15;Radio Bob Bühne
+Juli;Sonntag 10.08.25;21:30;Freibühne
+Papa Roach;Sonntag 10.08.25;22:30;Radio Bob Bühne
